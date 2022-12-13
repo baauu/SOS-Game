@@ -1,0 +1,9 @@
+Board has been initialized at size 3.
+Player Red (S, Computer): {0,0}
+Player Blue (O, Computer): {2,1}
+Player Red (S, Computer): {0,1}
+Player Blue (O, Computer): {1,2}
+Player Red (S, Computer): {2,2}
+Player Blue (S, Computer): {1,1}
+Player Red (S, Computer): {2,0}
+Player Red has won!

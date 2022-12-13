@@ -1,0 +1,12 @@
+Board has been initialized at size 3.
+Game mode has been switched to General.
+Player Red (S, Computer): {0,0}
+Player Blue (S, Computer): {0,1}
+Player Red (S, Computer): {2,1}
+Player Blue (S, Computer): {1,2}
+Player Red (S, Computer): {2,2}
+Player Blue (S, Computer): {0,2}
+Player Red (O, Computer): {1,1}
+Player Blue (O, Computer): {2,0}
+Player Red (O, Computer): {1,0}
+Player Red has won with 2 points! Player Blue finished with 0 points.
