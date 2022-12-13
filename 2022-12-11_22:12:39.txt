@@ -1,7 +1,0 @@
-Board has been initialized at size 3.
-Game mode has been switched to Simple.
-Game mode has been switched to Simple.
-Player Red (S, Human): {0,0}
-Player Blue (O, Human): {0,1}
-Player Red (S, Human): {0,2}
-Player Red has won!
