@@ -1,9 +1,0 @@
-Board has been initialized at size 3.
-Player Red (S, Human): {0,0}
-Player Blue (S, Computer): {0,1}
-Player Red (S, Human): {1,1}
-Player Blue (S, Computer): {2,2}
-Player Red (O, Human): {1,0}
-Player Blue (S, Computer): {2,1}
-Player Red (S, Human): {2,0}
-Player Red has won!
